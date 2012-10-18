@@ -74,7 +74,7 @@ large code bases.
 
 We use grunt.js for client-side linting, testing and compressing.
 
-* [Our grunt.js documentation](grunt.md)
+* [Our grunt.js documentation](https://github.com/svankerkfort/vi-standards/blob/master/grunt.md)
 * [grunt.js](https://github.com/cowboy/grunt)
 
 
