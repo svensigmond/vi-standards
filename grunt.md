@@ -13,7 +13,7 @@ After everything has been setup, open your terminal, navigate to the "grunt" fol
 
 ## More information
 
-[gruntjs.com](http://gruntjs.com)
-[Grunt.js Github](https://github.com/gruntjs/grunt)
-[Grunt.js Documentation](https://github.com/gruntjs/grunt/blob/master/docs/toc.md)
-[grunt-compass](https://github.com/kahlil/grunt-compass)
+* [gruntjs.com](http://gruntjs.com)
+* [Grunt.js Github](https://github.com/gruntjs/grunt)
+* [Grunt.js Documentation](https://github.com/gruntjs/grunt/blob/master/docs/toc.md)
+* [grunt-compass](https://github.com/kahlil/grunt-compass)

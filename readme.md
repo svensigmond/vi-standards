@@ -70,12 +70,12 @@ large code bases.
   typography, etc.
 
 
-## TODO: Build and deployment
+## Build and deployment
 
-Projects should always attempt to include some generic means by which source
-can be linted, tested, compressed, and versioned in preparation for production
-use. For this task, [grunt](https://github.com/cowboy/grunt) by Ben Alman is an
-excellent tool.
+We use grunt.js for client-side linting, testing and compressing.
+
+* [Our grunt.js documentation](grunt.md)
+* [grunt.js](https://github.com/cowboy/grunt)
 
 
 ## Acknowledgements
