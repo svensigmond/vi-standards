@@ -50,6 +50,20 @@ We use [idiomatic-css](https://github.com/svankerkfort/idiomatic-css) with the f
   * Styling using IDs makes it impossible to use the same element twice on the same page.
 * We prefer relative units (em & rem) over absolute units (px).
 
+### Grids
+
+TODO: determine the best grid (for the project).
+
+* [Dead Simple Grid](https://github.com/mourner/dead-simple-grid)
+* [Golden Grid System](http://goldengridsystem.com)
+* [Bootstrap Grid](http://twitter.github.com/bootstrap/scaffolding.html#gridSystem)
+* [OOCSS Grid](https://github.com/stubbornella/oocss)
+
+
+### Reset
+
+We prefer [Normalize.css](http://necolas.github.com/normalize.css/) for our projects. In case we're building an app you could consider a real reset stylesheet.
+
 
 ## HTML(5)
 
