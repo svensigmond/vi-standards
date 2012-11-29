@@ -50,6 +50,8 @@ We use [idiomatic-css](https://github.com/svankerkfort/idiomatic-css) with the f
   * Styling using IDs makes it impossible to use the same element twice on the same page.
 * We prefer relative units (em & rem) over absolute units (px).
 
+### SASS
+
 ### Grids
 
 TODO: determine the best grid (for the project).
