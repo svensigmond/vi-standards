@@ -26,17 +26,17 @@ We use [idiomatic.js](https://github.com/svankerkfort/idiomatic.js) with the fol
 * We use single quotes!
 * We don't use a space between the parens and arguments or condition.
 
-  ```javascript
-    // Allowed
-
-    if (condition) {
-      // statements
-    }
-
-    function foo(arg, arg2) {
-      // do stuff
-    }
-  ```
+```javascript
+	// Allowed
+	
+	if (condition) {
+		// statements
+	}
+	
+	function foo(arg, arg2) {
+		// do stuff
+	}
+```
 
 
 ## CSS
@@ -51,6 +51,14 @@ We use [idiomatic-css](https://github.com/svankerkfort/idiomatic-css) with the f
 * We prefer relative units (em & rem) over absolute units (px).
 
 ### SASS
+Example of using path variables in .SCSS files.
+
+```css
+$root:	"/backoffice";
+$img:	"#{$root}/img";
+$type:	"#{$root}/type";
+```
+
 
 ### Grids
 
